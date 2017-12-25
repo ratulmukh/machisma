@@ -13,6 +13,7 @@
 
     <modules>
         <module>video-datasets</module>
+        <module>probability</module>
     </modules>
 
     <properties>
@@ -25,6 +26,11 @@
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>org.scala-lang</groupId>
+                <artifactId>scala-library</artifactId>
+                <version>2.12.4</version>
+            </dependency>
 
             <!--Apache dependencies -->
             <dependency>
