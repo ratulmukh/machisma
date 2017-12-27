@@ -1,4 +1,4 @@
-package com.ratul.machisma.probability;
+package com.ratul.machisma.probability.distributions;
 
 public class ContinuousProbDistribution implements ProbDistribution {
 }

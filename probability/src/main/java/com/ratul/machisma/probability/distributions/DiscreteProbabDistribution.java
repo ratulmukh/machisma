@@ -1,5 +1,6 @@
-package com.ratul.machisma.probability;
+package com.ratul.machisma.probability.distributions;
 
+import com.ratul.machisma.probability.ProbabilityException;
 import scala.Tuple2;
 
 import java.util.Collections;
